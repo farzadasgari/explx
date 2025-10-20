@@ -4,3 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 tok.txt
 venv/
+dist/
+*.egg-info/
+build/
+.idea/
