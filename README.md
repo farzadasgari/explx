@@ -4,8 +4,8 @@ explx
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/farzadasgari/explx/blob/main/LICENSE)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange?logo=openaccess&logoColor=white&style=for-the-badge)](https://github.com/farzadasgari/explx/blob/main/LICENSE)
+[![PyPI - Version](https://img.shields.io/pypi/v/explx?logo=python&logoColor=white&style=for-the-badge&color=blue)](https://pypi.org/project/explx/)
 </div>
 
 ---
